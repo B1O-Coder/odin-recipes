@@ -2,7 +2,7 @@
 
 This is just a script to make my skills better.
 
-Includet:
+Included:
 
 - HTML
 - Recipes
